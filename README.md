@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img alt="" src="" />
+    <img alt="Project-Clones logo" src="./svg/main-logo.svg" />
   </a>
 </p>
 <h1 align="center">
