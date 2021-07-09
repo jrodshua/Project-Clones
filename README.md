@@ -9,7 +9,8 @@
 
 A collection of real and existing company websites, cloned and built as accurately as possible using either Vanilla JS, React, Gatsby, or Next.js
 
-## Project Directory (in progress)
+## Projects (in progress)
+
 - [Uber](https://www.uber.com/)
 - [DoorDash](https://www.doordash.com/)
 - [Stripe](https://stripe.com/)
