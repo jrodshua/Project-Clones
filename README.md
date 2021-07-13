@@ -19,7 +19,8 @@ This section will be updated upon individual project completion
 
 ### In Progress
 
-- Uber clone
+**Uber clone**
+
 - [View project repo](https://github.com/jrodshua/projectClones-Uber)
 - [View live project site](https://project-clones-uber.netlify.app/)
 - [View official Uber site](https://www.uber.com/)
